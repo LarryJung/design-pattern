@@ -24,6 +24,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
@@ -148,7 +151,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1572450257825</updated>
-      <workItem from="1572450261086" duration="5848000" />
+      <workItem from="1572450261086" duration="6146000" />
     </task>
     <servers />
   </component>
